@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WAQASCHANNA
+- 👋 Hi, I’m WAQAS ALI
 - 👀 I’m interested in Coding/Development
 - 🌱 I’m currently learning DSA/Python/DeepLearning/WordPress/Leetcode
 - 💞️ I’m looking to collaborate on AI Technologies
